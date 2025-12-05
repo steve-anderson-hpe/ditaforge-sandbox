@@ -1,0 +1,33 @@
+# Dependabot configuration file for automated dependency updates
+# Uncomment sections below to enable specific dependency management features
+
+# Version: 2
+# This specifies the Dependabot configuration format version
+# version: 2
+
+# Enable version updates for dependencies
+# updates:
+#   # Monitor and update npm/JavaScript dependencies from package.json
+#   - package-ecosystem: "npm"
+#     directory: "/"
+#     schedule:
+#       interval: "weekly"
+#     # Pull requests will be created with the prefix "chore:"
+#     commit-message:
+#       prefix: "chore:"
+#
+#   # Monitor and update GitHub Actions used in workflows
+#   - package-ecosystem: "github-actions"
+#     directory: "/"
+#     schedule:
+#       interval: "weekly"
+
+# Security updates configuration (runs automatically)
+# This section handles critical security patches without additional configuration
+# security-updates:
+#   enabled: true
+
+# Vulnerability alerts configuration
+# This enables automated alerts when vulnerabilities are detected in dependencies
+# vulnerability-alerts:
+#   enabled: true
