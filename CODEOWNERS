@@ -1,9 +1,0 @@
-# CODEOWNERS for DitaForge XML editor demo repository
-
-# Global owner with rights to all content
-* @sanderson042
-
-/content/developer-manual/ @Leah-Goldman @rina-sussman
-/content/reference/        @Leah-Goldman @NadinaHPE
-/content/user-guide/       @Leah-Goldman @NadinaHPE @rina-sussman @steve-anderson-hpe
-/content/tutorials/        @Leah-Goldman @steve-anderson-hpe
